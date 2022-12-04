@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+[![Hung's GitHub stats]([https://github-readme-stats.vercel.app/api?username=hungvx-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=hungvx-dev&count_private=true&show_icons=true&layout=compact&bg_color=0,D4145A,FBB03B,FCEE21&icon_color=fff&text_color=fff&title_color=fff))
 
 <!--
 **hungvx-dev/hungvx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
