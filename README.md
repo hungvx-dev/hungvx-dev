@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungvx-dev&layout=compact&count_private=true&show_icons=true&bg_color=30,D4145A,2E3192&icon_color=fff&text_color=fff&title_color=fff)
+
 ![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungvx-dev&count_private=true&show_icons=true&layout=compact&bg_color=30,D4145A,2E3192&icon_color=fff&text_color=fff&title_color=fff)
 
 <!--
